@@ -1,0 +1,10 @@
+transformers
+datasets
+spacy
+streamlit
+mysql-connector-python
+openai
+langchain
+python-dotenv
+rasa
+nltk 

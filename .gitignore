@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.streamlit/secrets.toml
+# Ignore large model files
+*.safetensors
+*.model
+*.bin
+local_flan_t5_large_model/ 
